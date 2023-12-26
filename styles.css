@@ -1,0 +1,32 @@
+/* styles.css */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: rgb(239, 211, 155);
+    color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+h1, h2, h3 {
+    color: #007BFF;
+}
+
+a {
+    color: #007BFF;
+}
+
+section {
+    background-color: #fff;
+    border-radius: 7px;
+    padding: 20px;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+    margin-bottom: 20px;
+}
+
+/* Additional styling as needed */
