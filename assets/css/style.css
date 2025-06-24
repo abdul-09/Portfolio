@@ -1459,6 +1459,68 @@ a:hover {
 .widget-tags ul li a {
   color: #fff;
 }
+/* Learning Section Styling */
+    .learning-mf {
+      background-color: #f8f9fa;
+      padding-top: 4rem;
+      padding-bottom: 4rem;
+    }
+    
+    .learning-box {
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+      padding: 30px 20px;
+      margin-bottom: 30px;
+      height: 100%;
+      transition: transform 0.3s ease;
+    }
+    
+    .learning-box:hover {
+      transform: translateY(-10px);
+    }
+    
+    .learning-ico {
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    
+    .learning-content {
+      text-align: center;
+    }
+    
+    .l-title {
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin-bottom: 10px;
+      color: #2c2c2c;
+    }
+    
+    .l-description {
+      font-size: 0.9rem;
+      color: #6c757d;
+      min-height: 50px;
+    }
+    
+    .learning-timeline {
+      background: #e9ecef;
+      display: inline-block;
+      padding: 8px 20px;
+      border-radius: 30px;
+      font-size: 0.9rem;
+      font-weight: 500;
+    }
+    
+    .progress {
+      height: 8px;
+      border-radius: 4px;
+      background-color: #e9ecef;
+    }
+    
+    .progress-bar {
+      background-color: #0078ff;
+    }
+
 
 /*--------------------------------------------------------------
 # Footer
